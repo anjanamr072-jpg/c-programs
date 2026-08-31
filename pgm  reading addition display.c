@@ -63,5 +63,4 @@ int main()
     printf("Resultant matrix:\n");
     display(C,r,c);
 
-    return 0;
 }
